@@ -1,5 +1,5 @@
 # mbtrim
-Mini-batch trimming python implementation (see my ASPAI 2021 paper "Some like it tough: Improving model generalization via progressively increasing the training difficulty").
+Mini-batch trimming python implementation (see my ASPAI 2021 paper "Some like it tough: Improving model generalization via progressively increasing the training difficulty", arxiv preprint at https://arxiv.org/abs/2110.13058).
 
 <!---
 Comments in markdown - see https://www.markdownguide.org/basic-syntax/)
